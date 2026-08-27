@@ -1,0 +1,6 @@
+{
+  "name": "FairBite",
+  "description": "Zero-commission food delivery platform offering dine-in price transparency, live restaurant POS dashboard, flat subscription models, and transparent savings calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
